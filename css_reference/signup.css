@@ -16,6 +16,10 @@
      padding-right: 0PX;
      margin-right: auto;
  }
+
+ .form-header{
+     align-content: center;
+ }
  
  ul {
      margin-right: 200px;
@@ -28,7 +32,7 @@
      margin: 5px;
      margin-right: 10px;
  }
- 
+
  ul li a {
      border: 2px solid black;
      color: black;
@@ -36,6 +40,7 @@
      font-size: 25px;
      padding-top: 10px;
      border-radius: 15px;
+     text-decoration: none;
  }
  
  .block {
